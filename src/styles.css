@@ -1,0 +1,22 @@
+html, body{
+    height:100vh;
+    width:100vw;
+}
+
+.calendar-screen{
+    display:flex;
+    flex-flow:column;
+    height: 100vh;
+}
+
+.rbc-calendar{
+    height: 100%;
+}
+
+.navbar-brand{
+    margin-left: 30px;
+}
+
+.btn-outline-danger{
+    margin-right: 20px;
+}
